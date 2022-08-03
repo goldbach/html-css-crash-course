@@ -1,0 +1,49 @@
+/* p.error {
+    color: red;
+}
+
+
+<p class="success">
+p.success {
+    color: #31ae31;
+}
+
+.success AND .feedback paragraphs (p) <p class="success feedback">
+p.success.feedback {
+    border: 1px dashed #31ae31;
+}
+
+for <tag id="content">
+#content {
+    background-color: #ebebeb;
+    padding: 20px;
+}
+
+parent child: all .error's in div's, but not <div class="error">
+<div><p class="error">
+div .error { 
+    color: purple;
+}
+
+all divs with .error class, ie <div class="error">
+div.error {
+    color: blue;
+}
+
+attribute ends with($) .com
+a[href$=".com"] {
+    color: white;
+    background: red;
+    }
+attribute mathces (*) goldbach
+a[href*="goldbach"] {
+    color: white;
+    background: green;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+*/
+
+div { 
+    color: red;
+}
